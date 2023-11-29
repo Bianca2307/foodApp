@@ -1,4 +1,4 @@
-# foodApp
+# foodApp Android
 Android App using MVVM & ROOM, meals being generated from an API using RETROFIT.
 
 This is the first screen of the app where it is a random item generated, popular items and categories:
